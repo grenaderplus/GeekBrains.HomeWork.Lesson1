@@ -40,6 +40,8 @@ public class Lesson1 {
         printPhrase("Alexander");
         isLeap(2020);
 
+        System.out.println("Домашнее задание выполнено.");
+
 
     }
 
